@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    transform: translate(40%, 0%);
+}
+
+h2{
+    text-align: center;
+}
+
+.book{
+    transform: translate(70%, 20%);
+    width: 50%;
+    height: 50%;
+}
+
+.book:hover{
+    transform: translate(70%, 20%);
+    cursor: pointer;
+}
+
+.thanks{
+    width: 500px;
+}
